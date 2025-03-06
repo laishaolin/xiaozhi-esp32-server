@@ -11,6 +11,9 @@
   </a>
 </p>
 
+# 小智 AI 聊天机器人百科全书
+<a href="https://ccnphfhqs21z.feishu.cn/wiki/F5krwD16viZoF0kKkvDcrZNYnhb">跳转到小智百科全局</a>
+
 # 小智 ESP-32 后端服务(xiaozhi-esp32-server)
 
 （中文 | [English](README_en.md)）
